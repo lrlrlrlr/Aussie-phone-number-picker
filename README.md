@@ -45,3 +45,5 @@ print([phone for phone in all_phone_nums if re.search(AXAXAXAX, phone)])
 
 ## Step 3: pick your fav numbers, purchase it on the provider website
 
+## todo
+1. fetch more from other provider?
