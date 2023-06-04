@@ -9,7 +9,10 @@ It's time to have a coooooooooool Aussie phone number! There are some mobile ser
 I use Fiddler to repeatly call the API without worrying about the header/payload of the http request. Then I save all the response into a text file, wash it with python scripts.
 ![image](https://github.com/lrlrlrlr/Aussie-phone-number-picker/assets/27357380/1ae4d7bc-206b-4c9b-86c9-f9b094e220df)
 
-### Here are the availble phonenumbers:  https://github.com/lrlrlrlr/Aussie-phone-number-picker/blob/main/amaysim.json   (last update: 04/06/2023)
+### Here are the availble phonenumbers:  
+ -- https://github.com/lrlrlrlr/Aussie-phone-number-picker/blob/main/amaysim.json   (last update: 04/06/2023)
+ -- https://github.com/lrlrlrlr/Aussie-phone-number-picker/blob/main/amaysim3_washed.json 10000+ available numbers (last update: 05/06/2023)
+ -- https://github.com/lrlrlrlr/Aussie-phone-number-picker/blob/main/amaysim4_washed.json 10000+ available numbers (last update: 05/06/2023)
 
 ## Step 2: List all the cool numbers
 To list all the cool numbers, I use regex
